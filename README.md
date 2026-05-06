@@ -1,1 +1,1 @@
-# amd-slingshot
+# amd-ideathon
